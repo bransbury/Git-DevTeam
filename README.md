@@ -1,4 +1,4 @@
-# Git-Dev-Team
+# Git-DevTeam
 
 A guide to using Git in a team environment.  
 
@@ -7,3 +7,5 @@ A guide to using Git in a team environment.
 ## Process
 
 ## Personalize
+
+## FAQs
