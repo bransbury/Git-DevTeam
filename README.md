@@ -34,7 +34,7 @@ Create a new *'hotfix-[name]'* branch from <b>master</b>
 ## Personalize
 
 ## FAQs
-#### <a name"two-branches">Why two permanent branches? </a>
+#### <a name="two-branches">Why two permanent branches? </a>
 <b>Master</b> is the stable production version.
 This gives you a place: 
 * to debug a production issue
